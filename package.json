@@ -1,6 +1,6 @@
 {
     "name": "s8-eslint",
-    "version": "5.9.0",
+    "version": "1.0.0",
     "description": "Набор прессетов ESLint",
     "author": "Nikita Pavlov",
     "license": "MIT",
